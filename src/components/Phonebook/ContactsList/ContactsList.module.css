@@ -44,7 +44,7 @@
   border: 2px solid #3b82f65e;
   background-color: #fff;
   text-transform: uppercase;
-  box-shadow: #3b82f65e 1px 1px 3px;
+  /* box-shadow: #3b82f65e 1px 1px 3px; */
 }
 
 .deleteButton:hover,
