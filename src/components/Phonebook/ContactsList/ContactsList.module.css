@@ -30,21 +30,21 @@
   max-width: 530px;
   width: 100%;
   font-family: 'Open Sans', sans-serif;
-  font-size: 50%;
+  font-size: 15px;
   height: 23px;
 }
 
 .item:not(:last-child) {
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid #3b82f65e;;
   margin-bottom: 5px;
 }
 
 .deleteButton {
   border-radius: 5px;
-  border: solid #3b82f65e;
-  border: none;
-  background-color: #f0f0f0;
-  box-shadow: #303030 1px 1px 3px;
+  border: 2px solid #3b82f65e;
+  background-color: #fff;
+  text-transform: uppercase;
+  box-shadow: #3b82f65e 1px 1px 3px;
 }
 
 .deleteButton:hover,
